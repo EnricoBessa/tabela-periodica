@@ -1,0 +1,62 @@
+h1{
+  font-size: 20px;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
+table{
+  width: 100%;
+}
+
+tr {
+  width: 100%;
+}
+
+.sigla {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.card{
+  font-size: 10px;
+  color: white;
+  text-align: center;
+  height: 80px;
+  border-radius: 5px;
+  width: 5.56%;
+}
+
+.nao-metais {
+  background-color: darkslateblue;
+}
+.gases-nobres {
+  background-color: red;
+}
+
+.alcalinos {
+  background-color: green;
+}
+.alcalinos-terrosos {
+  background-color: greenyellow;
+}
+.semimetais {
+  background-color: pink;
+}
+.halogênio {
+  background-color: lightblue;
+}
+.outrosmetais {
+  background-color: palevioletred;
+}
+.lantanideos {
+  background-color: darkgoldenrod;
+}
+.actinideos {
+  background-color: #8B4513;
+}
+.metais-transicao {
+  background-color: orange;
+}
