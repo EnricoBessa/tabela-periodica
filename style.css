@@ -15,6 +15,11 @@ tr {
   width: 100%;
 }
 
+.formatacao{
+background-color: #F0F8FF ;
+
+}
+
 .sigla {
   font-weight: bold;
   font-size: 20px;
